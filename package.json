@@ -1,0 +1,15 @@
+{
+  "name": "css-ease",
+  "homepage": "https://github.com/yields/css-ease",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yields/css-ease.git"
+  },
+  "description": "css easing functions.",
+  "version": "0.0.1",
+  "keywords": ["easing"],
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "index.js"
+}
