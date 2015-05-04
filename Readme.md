@@ -9,6 +9,10 @@
 
     $ component install yields/css-ease
 
+  or via [npm](https://www.npmjs.com):
+
+    $ npm install css-ease
+
 ## Example
 
 ```js
